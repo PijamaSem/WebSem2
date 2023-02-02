@@ -1,21 +1,3 @@
-body{
-    background-color: beige;
-    font-family: 'Caviar Dreams';
-}
-h1 {
-    color: saddlebrown;
-    font-family: sans-serif;
-}
-
-.Attantion{
-    font-size: 20px;
-    color: brown;
-}
-
-#finish_text{
-    color: rgb(12, 12, 87);
-}
-
 @font-face {
 	font-family: 'Caviar Dreams';
 	src: url('../fonts/caviar_dreams.eot'); /* IE 9 Compatibility Mode */
